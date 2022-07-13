@@ -1,0 +1,17 @@
+{
+    "name": "vpizz/libreria-2",
+	"version": "1.0.0",
+	"type": "library",
+    "autoload": {
+        "psr-4": {
+            "Vpizz\\Libreria2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "PM",
+            "email": "pm@pizzaferrimorrone.com"
+        }
+    ],
+    "require": {}
+}
