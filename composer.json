@@ -13,5 +13,13 @@
             "email": "pm@pizzaferrimorrone.com"
         }
     ],
-    "require": {}
+    "repositories": [
+    {
+      "type": "github",
+      "url": "https://github.com/virtginia/libreria-anidada.git"
+    }
+	],
+    "require": {
+		"vpizz/libreria-anidada": "dev-master"
+    }
 }
